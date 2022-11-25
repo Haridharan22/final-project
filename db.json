@@ -1,0 +1,25 @@
+{
+  "emp_details": [
+    {
+      "name": "Prem",
+      "email": "prem@gmail.com",
+      "phonenumber": "8122530754",
+      "category": "family",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Ragu",
+      "email": "ragu@gmail.com",
+      "category": "friends",
+      "phonenumber": 8908030754
+    },
+    {
+      "name": "hari",
+      "email": "prem@gmail.com",
+      "phonenumber": "9047753286",
+      "category": "work",
+      "id": 4
+    }
+  ]
+}
